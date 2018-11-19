@@ -8,6 +8,6 @@ public class Main {
     }
 
     public static void testMethod() {
-
+        System.out.println("inside testMethod()");
     }
 }
