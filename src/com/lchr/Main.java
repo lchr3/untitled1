@@ -9,5 +9,6 @@ public class Main {
 
     public static void testMethod() {
         System.out.println("inside testMethod()");
+        System.out.println("added another one");
     }
 }
