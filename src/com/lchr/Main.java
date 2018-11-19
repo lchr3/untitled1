@@ -10,5 +10,6 @@ public class Main {
     public static void testMethod() {
         System.out.println("inside testMethod()");
         System.out.println("added from master");
+        System.out.println("added another one");
     }
 }
